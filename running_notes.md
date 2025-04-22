@@ -1,0 +1,1 @@
+While digging around for potential structures, I came across the open-webui repo.  This appears to do exactly what I'm looking for.  It's local, secure, ...; going to adopt and adapt it for my use case.
